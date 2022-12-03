@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2", "PythonApplication2.pyproj", "{B15F8B08-112F-447F-B1EC-34069DA4F307}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "classifier", "..\python-sklearn-classifier-cookiecutter\classifier.pyproj", "{C766F64E-B715-465B-AB31-813AEB915F89}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "regression", "..\python-sklearn-regression-cookiecutter\regression.pyproj", "{BA96B3D7-1292-4E37-AB3C-DC1E39CE2337}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "clustering", "..\python-sklearn-clustering-cookiecutter\clustering.pyproj", "{C43E7EE6-4B5C-4CED-86C3-43CAC90552B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15F8B08-112F-447F-B1EC-34069DA4F307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15F8B08-112F-447F-B1EC-34069DA4F307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C766F64E-B715-465B-AB31-813AEB915F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C766F64E-B715-465B-AB31-813AEB915F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA96B3D7-1292-4E37-AB3C-DC1E39CE2337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA96B3D7-1292-4E37-AB3C-DC1E39CE2337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43E7EE6-4B5C-4CED-86C3-43CAC90552B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43E7EE6-4B5C-4CED-86C3-43CAC90552B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94837B7-9A03-4D68-9576-14E4E5036DD1}
+	EndGlobalSection
+EndGlobal
